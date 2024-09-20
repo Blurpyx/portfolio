@@ -1,3 +1,8 @@
 .active {
-    @apply border-b-2 border-[#00960E] text-[#00960E]
+    @apply border-b-2 border-sky-500
+}
+
+h1 {
+  font-family: "Ink Free Regular";
+  @apply text-5xl
 }
