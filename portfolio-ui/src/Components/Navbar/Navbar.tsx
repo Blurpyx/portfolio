@@ -26,16 +26,16 @@ export default function Navbar() {
               <a href="#skills">Skills</a>
             </li>
             <li>
-              <a href="#contact">Reach out</a>
+              <a href="#contact" className="button">Reach out</a>
             </li>
           </ul>
           <ul className="flex px-10 items-center">
             <li>
               <a
-                href="https://www.facebook.com/profile.php?id=100009888813009"
+                href="https://www.linkedin.com/in/tytgat-t/"
                 target="blank"
               >
-                <img src={LinkedIn} alt="LinkedIn" className="w-9 mx-2"/>
+                <img src={LinkedIn} alt="LinkedIn" className="w-5 mx-2"/>
               </a>
             </li>
             <li>
@@ -43,23 +43,23 @@ export default function Navbar() {
                 href="https://www.facebook.com/profile.php?id=100009888813009"
                 target="blank"
               >
-                <img src={Facebook} alt="Facebook" className="w-10 mx-1"/>
+                <img src={Facebook} alt="Facebook" className="w-6 mx-1"/>
               </a>
             </li>
             <li>
               <a
-                href="https://www.facebook.com/profile.php?id=100009888813009"
+                href="https://www.instagram.com/tommytytgat/"
                 target="blank"
               >
-                <img src={Instagram} alt="Instagram" className="w-8 mx-2"/>
+                <img src={Instagram} alt="Instagram" className="w-4 mx-2"/>
               </a>
             </li>
             <li>
               <a
-                href="https://www.facebook.com/profile.php?id=100009888813009"
+                href="https://x.com/TtTytgat"
                 target="blank"
               >
-                <img src={Twitter} alt="Twitter" className="w-8 mx-2"/>
+                <img src={Twitter} alt="Twitter" className="w-4 mx-2"/>
               </a>
             </li>
           </ul>
