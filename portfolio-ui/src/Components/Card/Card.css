@@ -1,0 +1,8 @@
+.card h1 {
+  font-family: "Bonfire Glisten";
+  @apply text-3xl;
+}
+
+.card h2 {
+  @apply text-gray-500 capitalize;
+}

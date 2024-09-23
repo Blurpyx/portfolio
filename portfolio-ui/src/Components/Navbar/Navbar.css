@@ -2,7 +2,7 @@
   @apply border-b-2 border-sky-500;
 }
 
-h1 {
+nav h1 {
   font-family: "Ink Free Regular";
   @apply text-5xl;
 }

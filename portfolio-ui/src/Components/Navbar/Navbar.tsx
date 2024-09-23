@@ -6,7 +6,7 @@ import Twitter from "../../images/icons/twitter.png";
 
 export default function Navbar() {
   return (
-    <nav className="w-full absolute top-0 h-20">
+    <nav className="w-full fixed top-0 h-20 bg-white">
       <div className="flex grow h-full border-b border-gray-200">
         <a href="/" className="ml-8 mr-10">
           <h1 className="leading-[80px]">Portfolio</h1>
