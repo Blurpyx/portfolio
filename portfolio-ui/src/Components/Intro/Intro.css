@@ -1,0 +1,4 @@
+.intro h1 {
+  font-family: 'Times New Roman', Times, serif;
+  @apply text-6xl;
+}
